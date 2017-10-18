@@ -1,0 +1,11 @@
+{
+  "name": "netlifyDeploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "extract-zip": "^1.6.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
